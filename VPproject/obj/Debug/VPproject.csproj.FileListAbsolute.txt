@@ -1,0 +1,9 @@
+c:\users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\bin\Debug\VPproject.exe.config
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\bin\Debug\VPproject.exe
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\bin\Debug\VPproject.pdb
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.csprojResolveAssemblyReference.cache
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.Form1.resources
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.Properties.Resources.resources
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.csproj.GenerateResource.Cache
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.exe
+C:\Users\veleb\documents\visual studio 2015\Projects\VPproject\VPproject\obj\Debug\VPproject.pdb
